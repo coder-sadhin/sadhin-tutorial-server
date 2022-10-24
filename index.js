@@ -7,6 +7,10 @@ app.use(cors());
 
 const courses = require('./data/courses.json')
 
+app.get('/', (req, res) => {
+    res.send('courses api is running')
+})
+
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
@@ -20,3 +24,6 @@ app.get('/courses/:id', (req, res) => {
 app.listen(port, () => {
     console.log('news server is running', port);
 })
+
+
+module.exports = app;
