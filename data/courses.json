@@ -9,7 +9,7 @@
         "course_title": "Basic Animation - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$180",
         "course_duration": {
@@ -30,7 +30,7 @@
         "course_title": "Photo Editing - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$50",
         "course_duration": {
@@ -51,7 +51,7 @@
         "course_title": "Mobile App Development - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$250",
         "course_duration": {
@@ -60,7 +60,7 @@
             "class_time": "7:00 - 9:30"
         },
         "image_url": "https://www.linkpicture.com/q/mobile_app_development.jpg",
-        "details": "This course created for basic Android app development. The author on this course, is vary well educated and experience to create maltipull type app creations. All are our student whose are enroll this course we provide free of tool and support also"
+        "details": "This course created for basic Android app development. The author on this course, is vary well educated and experience to create multipule type app creations. All are our student whose are enroll this course we provide free of tool and support also"
     },
     {
         "id": "04",
@@ -72,7 +72,7 @@
         "course_title": "Graphic Design - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$130",
         "course_duration": {
@@ -93,7 +93,7 @@
         "course_title": "Video Editing - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$80",
         "course_duration": {
@@ -102,7 +102,7 @@
             "class_time": "7:00 - 9:30"
         },
         "image_url": "https://www.linkpicture.com/q/video_editing.jpg",
-        "details": "This course created for Basic of video editing. The author on this course, is vary well educated and experience to long term video editing and he also work bangladeshi cenama Programar-hobo. All are our student whose are enroll this course we provide free of tool and support also"
+        "details": "This course created for Basic of video editing. The author on this course, is vary well educated and experience to long term video editing and he also work bangladeshi cenema Programmer-hobo. All are our student whose are enroll this course we provide free of tool and support also"
     },
     {
         "id": "06",
@@ -114,7 +114,7 @@
         "course_title": "Web Development - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
-            "published_date": "2022-08-24 17:27:34",
+            "published_date": "2022-08-24 17:27:34"
         },
         "course_fee": "$200",
         "course_duration": {
@@ -124,5 +124,5 @@
         },
         "image_url": "https://www.linkpicture.com/q/web_development.jpg",
         "details": "This course created for full stack web development. The author on this course, is vary well educated and experience to web development and work with google. All are our student whose are enroll this course we provide free of tool and support also"
-    },
+    }
 ]
