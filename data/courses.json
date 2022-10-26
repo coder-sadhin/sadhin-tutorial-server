@@ -11,9 +11,9 @@
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$180",
+        "course_fee": "180",
         "course_duration": {
-            "duration": "6 month",
+            "duration_with_month": "6",
             "total_class": "45",
             "class_time": "7:00 - 9:30"
         },
@@ -32,9 +32,9 @@
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$50",
+        "course_fee": "50",
         "course_duration": {
-            "duration": "3 month",
+            "duration_with_month": "3",
             "total_class": "20",
             "class_time": "7:00 - 9:30"
         },
@@ -48,14 +48,14 @@
             "badge": "Excellent"
         },
         "total_enrolment": 488,
-        "course_title": "Mobile App Development - Sadhin",
+        "course_title": "App Development - Sadhin",
         "tutor": {
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$250",
+        "course_fee": "250",
         "course_duration": {
-            "duration": "12 month",
+            "duration_with_month": "12",
             "total_class": "150",
             "class_time": "7:00 - 9:30"
         },
@@ -74,9 +74,9 @@
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$130",
+        "course_fee": "130",
         "course_duration": {
-            "duration": "10 month",
+            "duration_with_month": "10",
             "total_class": "60",
             "class_time": "7:00 - 9:30"
         },
@@ -95,9 +95,9 @@
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$80",
+        "course_fee": "80",
         "course_duration": {
-            "duration": "6 month",
+            "duration_with_month": "6",
             "total_class": "40",
             "class_time": "7:00 - 9:30"
         },
@@ -116,9 +116,9 @@
             "name": "Coder Sadhin",
             "published_date": "2022-08-24 17:27:34"
         },
-        "course_fee": "$200",
+        "course_fee": "200",
         "course_duration": {
-            "duration": "12 month",
+            "duration_with_month": "12",
             "total_class": "100",
             "class_time": "7:00 - 9:30"
         },
